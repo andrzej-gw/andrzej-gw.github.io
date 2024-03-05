@@ -1,11 +1,22 @@
 # List of chess openings:
+
 [Albin Counter-Gambit](https://andrzej-gw.github.io/chess_openings)
+
 [Alekhine Defense](https://andrzej-gw.github.io/chess_openings)
+
 [Baltic Defense](https://andrzej-gw.github.io/chess_openings)
+
 [Belgrade Gambit](https://andrzej-gw.github.io/chess_openings)
+
 [Benoni Defense](https://andrzej-gw.github.io/chess_openings)
+
 [Bishop’s Opening](https://andrzej-gw.github.io/chess_openings)
+
 [Black Knights Tango](https://andrzej-gw.github.io/chess_openings)
+
 [Blackmar-Diemer Gambit](https://andrzej-gw.github.io/chess_openings)
+
 [Budapest Gambit](https://andrzej-gw.github.io/chess_openings)
+
 [Caro-Kann](https://andrzej-gw.github.io/chess_openings)
+
