@@ -1,0 +1,9 @@
+# Pirc Defense
+
+The Pirc Defence ( PEERTS) is a chess opening characterised by the response of Black to 1.e4 with 1...d6 and 2...Nf6, followed by ...g6 and ...Bg7, while allowing White to establish a centre with pawns on d4 and e4. It is named after the Slovenian grandmaster Vasja Pirc.
+The Pirc Defence is usually defined by the opening sequence 
+
+1. e4 d6
+2. d4 Nf6
+3. Nc3 g6This is the most commonly played line after Black responds to 1.e4 with 1...d6. It has been claimed to give rise to somewhat interesting and exciting games, where Black will have counterplay but has to be cautious about playing too passively. According to Garry Kasparov, the Pirc Defence is "hardly worth using in the tournaments of the highest category", as it gives White "too many opportunities for anybody's liking".
+
